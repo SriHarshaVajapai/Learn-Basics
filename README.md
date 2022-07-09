@@ -1,7 +1,7 @@
 # Learn-Basics
 Intern Task - SriHarsha Vajapeyayajula
 
-### To get the output, please run the following command.
+**To get the output, please run the following command.**
 
 ```
 python main.py
